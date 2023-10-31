@@ -1,0 +1,14 @@
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.deps.json
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.runtimeconfig.json
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.AssemblyInfo.cs
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\refint\StarApp.Core.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\StarApp.Core.genruntimeconfig.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StarApp.Core\obj\Debug\net6.0\ref\StarApp.Core.dll

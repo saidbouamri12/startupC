@@ -1,0 +1,12 @@
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\bin\Debug\net6.0\EmailSender.Service.deps.json
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\bin\Debug\net6.0\EmailSender.Service.dll
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\bin\Debug\net6.0\EmailSender.Service.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.AssemblyInfo.cs
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.dll
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\refint\EmailSender.Service.dll
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\EmailSender.Service.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\EmailSender.Service\obj\Debug\net6.0\ref\EmailSender.Service.dll

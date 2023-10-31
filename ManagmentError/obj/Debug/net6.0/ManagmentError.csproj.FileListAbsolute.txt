@@ -1,0 +1,12 @@
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\bin\Debug\net6.0\ManagmentError.deps.json
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\bin\Debug\net6.0\ManagmentError.dll
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\bin\Debug\net6.0\ManagmentError.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.AssemblyInfo.cs
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.dll
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\refint\ManagmentError.dll
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ManagmentError.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\ManagmentError\obj\Debug\net6.0\ref\ManagmentError.dll

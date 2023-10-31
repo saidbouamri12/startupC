@@ -1,0 +1,15 @@
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\bin\Debug\net6.0\StartApp.Mid.deps.json
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\bin\Debug\net6.0\StartApp.Mid.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\bin\Debug\net6.0\StartApp.Mid.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.AssemblyInfo.cs
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.csproj.CopyComplete
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\refint\StartApp.Mid.dll
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\StartApp.Mid.pdb
+C:\Users\Said\Desktop\organisation project\StartApp\StartApp.Mid\obj\Debug\net6.0\ref\StartApp.Mid.dll

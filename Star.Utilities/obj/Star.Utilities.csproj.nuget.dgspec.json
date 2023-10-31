@@ -1,0 +1,557 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\Star.Utilities\\Star.Utilities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj",
+        "projectName": "EmailSender.Service",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\ManagmentError.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\ManagmentError.csproj",
+        "projectName": "ManagmentError",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\ManagmentError.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\Star.Utilities\\Star.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\Star.Utilities\\Star.Utilities.csproj",
+        "projectName": "Star.Utilities",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\Star.Utilities\\Star.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\Star.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\StartApp.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\StartApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj",
+        "projectName": "StarApp.Core",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj",
+        "projectName": "StartApp.EF",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\StartApp.Mid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\StartApp.Mid.csproj",
+        "projectName": "StartApp.Mid",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\StartApp.Mid.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\StartApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\StartApp.csproj",
+        "projectName": "StartApp",
+        "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\StartApp.csproj",
+        "packagesPath": "C:\\Users\\Said\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Said\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Users\\Said\\Desktop\\t\\Reclamations 812022-1\\packages\\popper.js.1.14.3": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\EmailSender.Service\\EmailSender.Service.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\ManagmentError.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\ManagmentError\\ManagmentError.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StarApp.Core\\StarApp.Core.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.EF\\StartApp.EF.csproj"
+              },
+              "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\StartApp.Mid.csproj": {
+                "projectPath": "C:\\Users\\Said\\Desktop\\organisation project\\StartApp\\StartApp.Mid\\StartApp.Mid.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
